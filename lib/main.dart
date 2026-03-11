@@ -32,7 +32,7 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
-  final String apiKey = "eb007ae07779458531cbf51f7816d060";
+  final String apiKey = "BURAYA_KENDI_API_ANAHTARINIZI_YAZIN";
 
   Map<String, dynamic>? current;
   List hourly = [];
